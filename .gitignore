@@ -5,5 +5,9 @@
 .venv
 __pycache__/
 
-#MacOS
+# MacOS
 .DS_Store
+
+# Stuff I shouldn't commit
+secrets/
+.env
